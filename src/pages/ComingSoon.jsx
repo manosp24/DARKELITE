@@ -1,5 +1,7 @@
 import "../App.css"
 
+
+
 export default function ComingSoon() {
   return (
     <div style={{color: "white"}}>
