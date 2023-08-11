@@ -8,5 +8,6 @@ export default function App() {
     <div>
       { (page == 0) ? <ComingSoon /> : ((page == 1) ? <Homepage></Homepage> : "")}
     </div>
+    
   )
 }
